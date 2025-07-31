@@ -1,10 +1,10 @@
 # 👩‍💻 Prabavathi M
 
-**Full Stack Developer | 1.5+ Years of Experience | Nexus | React.js, TypeScript, Node.js, MongoDB**
+**Full Stack Developer | 1.5+ Years of Experience | React.js, TypeScript, Node.js, MongoDB**
 
 Hi, I’m **Prabavathi**, a passionate full stack developer who thrives on turning ideas into interactive, scalable, and user-focused digital products.
 
-I’ve contributed to impactful platforms in **finance**, **employee management**, **restaurant operations**, and **family productivity**, using tools like **React.js**, **Node.js**, **MongoDB**, and **AWS**. I worked as a **Full Stack Developer at Nexus**, collaborating on multiple cross-functional projects that empowered businesses and families alike.
+I’ve contributed to impactful platforms in **finance**, **employee management**, **restaurant operations**, and **family productivity**, using tools like **React.js**, **Node.js**, **MongoDB**, and **AWS**. I worked as a **Full Stack Developer at App Innovation Technologies**, collaborating on multiple cross-functional projects that empowered businesses and families alike.
 
 ---
 
@@ -37,7 +37,7 @@ Originally from a **Chemistry (M.Sc.)** background, I pivoted into software deve
 
 ## 💼 Work Experience
 
-### 💻 Nexus – *Full Stack Developer*  
+### 💻 App Innovation Technologies – *Full Stack Developer*  
 📆 **Apr 2024 – Aug 2025**  
 - Engineered full stack apps using **React.js**, **Node.js**, **MongoDB**  
 - Built secure file handling features with **AWS S3 signed URLs**  
